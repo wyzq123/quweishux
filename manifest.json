@@ -1,0 +1,21 @@
+{
+  "short_name": "数字乐园",
+  "name": "NumberZoo - 趣味数字乐园",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2436/2436636.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2436/2436636.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F0F9FF",
+  "background_color": "#F0F9FF",
+  "orientation": "portrait"
+}
